@@ -39,10 +39,10 @@ Keep a `Practice.kt` file where you write all your experiments and tiny challeng
 
 fun main() {
 //    typesPractice()
-    variablePractice()
+//    variablePractice()
 //    functionPractice()
 //    stringTemplatePractice()
-//    controlFlowPractice()
+    controlFlowPractice()
 //    nullablePractice()
 //    weekOnePractice()
 }

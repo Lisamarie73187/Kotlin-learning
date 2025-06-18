@@ -58,6 +58,12 @@ fun functionPractice() {
     // 1. Create a function called greetUser that takes a name (String) as a parameter
     // and prints "Hello, [name]!".
 
+    fun greetUser (name: String) {
+        println("Hello $name")
+    }
+
+    greetUser("John")
+
 
     // 2. Create a function called addNumbers that takes two Ints and returns their sum.
     // Call it and print the result.

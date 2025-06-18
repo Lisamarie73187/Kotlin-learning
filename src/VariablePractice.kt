@@ -75,6 +75,13 @@ fun variablePractice() {
     // 5. Create val variables for pi (use 3.14159) and the radius of a circle.
     // Calculate and print the area of the circle.
 
+    val pi = 3.14
+
+    val radiusCircle = 15
+
+    val area = pi * radiusCircle * radiusCircle
+
+    println(area)
 
     // 6. Create a var for temperature in Fahrenheit.
     // Convert it to Celsius and print the result.
@@ -93,4 +100,13 @@ fun variablePractice() {
 
     // 10. Bonus: Create a var that stores your bank account balance.
     // Subtract a purchase amount and print the new balance.
+
+
+    var bankAccountBalance = 1001
+
+    bankAccountBalance = bankAccountBalance - 100
+
+    println(bankAccountBalance)
+
+
 }
